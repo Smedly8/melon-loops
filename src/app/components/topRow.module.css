@@ -1,0 +1,11 @@
+.topRow{
+    display: flex;
+    width: 100%;
+    padding: 8px;
+}
+
+.playButton{
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
